@@ -1,4 +1,4 @@
-# Quickkart - MERN
+# Quickart - MERN
 Full-Stack Quickart with Admin Dashboard & Paytm Payment Gateway.
 
 [Visit Now](https://flipkartweb-mern.vercel.app) 🚀
